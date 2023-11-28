@@ -1,0 +1,24 @@
+中文破解说明：
+1.安装SW401-5setup.exe，记住安装目录
+2.打开安装目录，双击SW4License.exe文件，复制Site Code
+3.打开Stylewriter 4 Keymaker文件夹，双击s4_keymaker.exe文件，注意：此时会提示是否覆盖某某文件，点击“否”！
+4.粘贴Site Code，按任意键
+5.Encrypting key后面的一串字符即为Site Code对应的Site key
+
+英文：
+Important notes: 
+
+1.Install Stylewriter 4.01.05. Then,click on Start> All Programs> Editor Software> 
+  StyleWriter 4> License Configuration> Enter  to read the Site Code. You will need 
+  to type the Site Code into the Keymaker.
+
+2.Before you run the keymaker be warned: It will ask you if you wish to overwrite some files.
+  Do not let it overwrite any files.
+  Copy the whole Stylewriter 4 Keymaker folder to your desktop and then run 
+  the keymaker [s4_keymaker;).exe]. DO NOT ALLOW IT TO OVERWRITE FILES!!!
+
+3.Paste or type (including the space)  your Site Code into the keymaker.  
+  It's the "encrypting key" value you will need to copy (including the space) into the Site Key of the License 
+  Configuration. The one at the bottom; as the keygen itself indicates. 
+
+4.You can delete the Keymaker folder from the desktop.
